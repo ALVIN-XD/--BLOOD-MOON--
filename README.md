@@ -1,4 +1,4 @@
-# 𝙃𝘼𝘾𝙆 𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆 𝙍𝘼𝙉𝘿𝙊𝙈🧭
+# 𝘼𝙇𝙑𝙄𝙉𝙊 𝙎𝘾𝙍𝙄𝙋𝙕
 
 #### TERMUX YG DI SARANKAN
  UNDUH APLIKASI TERMUX FDROID DI SINI [Disini](https://f-droid.org/repo/com.termux_118.apk)
