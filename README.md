@@ -1,5 +1,5 @@
-# SCRIPT CRACK FACEBOOK❗H҉A҉C҉K҉E҉R҉
-𝐖𝐈𝐁𝐔𝐒𝐎𝐅𝐓™
+# 𝖲𝖢𝖱𝖨𝖯𝖹 𝖡𝖸 𝖠𝖫𝖵𝖨𝖭𝖮
+# 𝙃𝘼𝘾𝙆 𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆 𝙍𝘼𝙉𝘿𝙊𝙈🧭
 
 #### TERMUX YG DI SARANKAN
  UNDUH APLIKASI TERMUX FDROID DI SINI [Disini](https://f-droid.org/repo/com.termux_118.apk)
