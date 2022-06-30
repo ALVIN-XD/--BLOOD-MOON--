@@ -1,8 +1,8 @@
-# # SCRIPT CRACK FACEBOOK❗
-Script Crack Facebook Versi Free Publik
+# SCRIPT CRACK FACEBOOK❗H҉A҉C҉K҉E҉R҉
+𝐖𝐈𝐁𝐔𝐒𝐎𝐅𝐓™
 
-#### Install Script Di Termux
- Disarankan Untuk Memakai Termux Fdroid, Unduh Aplikasi Nya [Disini](https://f-droid.org/repo/com.termux_118.apk)
+#### TERMUX YG DI SARANKAN
+ UNDUH APLIKASI TERMUX FDROID DI SINI [Disini](https://f-droid.org/repo/com.termux_118.apk)
  ```
  $ pkg update && pkg upgrade
  $ pkg install python
@@ -15,7 +15,7 @@ Script Crack Facebook Versi Free Publik
  $ git pull
  $ python run.py
  ```
-#### Cara Untuk Update
+#### CARA UPDATE NJENG♫︎
  ```
   $ cd $HOME
   $ rm -rf FBL
@@ -23,3 +23,5 @@ Script Crack Facebook Versi Free Publik
   $ cd FBL
   $ git pull
   $ python run.py
+
+🅹︎🅰︎🅽︎🅶︎🅰︎🅽︎ 🅻︎🆄︎🅿︎🅰︎ 🅺︎🅰︎🆂︎🅸︎ 🅱︎🅸︎🅽︎🆃︎🅰︎🅽︎🅶︎
