@@ -9,20 +9,14 @@
  $ python -m pip install bs4
  $ python -m pip install rich
  $ python -m pip install pyfiglet
- $ https://github.com/ALVIN-XD/--BLOOD-MOON--
- $ cd --BLOOD-MOON--
- $ git pull
- $ python BLOOD.py
  ```
-#### CARA UPDATE NJENG♫︎
+
+# 🅹︎🅰︎🅽︎🅶︎🅰︎🅽︎ 🅻︎🆄︎🅿︎🅰︎ 🅵︎🅾︎🅻︎🅻︎🅾︎🆆︎
  ```
-  $ cd $HOME
-  $ rm -rf --BLOOD-MOON--
-  $ git clone https://github.com/ALVIN-XD/--BLOOD-MOON--
-  $ cd --BLOOD-MOON--
-  $ git pull
-  $ python BLOOD.py
+#### 🅳︎🅰︎🅽︎ 🅺︎🅰︎🆂︎🅸︎ 🅱︎🅸︎🅽︎🆃︎🅰︎🅽︎🅶︎
+
+
+#### 𝚂𝙴𝙺𝙸𝙰𝙽♫︎
  ```
-🅹︎🅰︎🅽︎🅶︎🅰︎🅽︎ 🅻︎🆄︎🅿︎🅰︎ 🅺︎🅰︎🆂︎🅸︎ 🅱︎🅸︎🅽︎🆃︎🅰︎🅽︎🅶︎ 🅽︎🆈︎🅴︎🆃︎
- ```
-𝚂𝙲𝚁𝙸𝙿𝚉 𝙱𝚈 𝙰𝙻𝚅𝙸𝙽𝙾🇳🇼 
+#### 🆃︎🅴︎🆁︎🅸︎🅼︎🅰︎ 🅶︎🅰︎🅹︎🅸︎
+ 
