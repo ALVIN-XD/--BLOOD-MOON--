@@ -18,10 +18,10 @@
  ```
   $ cd $HOME
   $ rm -rf --BLOOD-MOON--
-  $ git clone
-  $ cd FBL
+  $ git clone https://github.com/ALVIN-XD/--BLOOD-MOON--
+  $ cd --BLOOD-MOON--
   $ git pull
-  $ python run.py
+  $ python BLOOD.py
  ```
 🅹︎🅰︎🅽︎🅶︎🅰︎🅽︎ 🅻︎🆄︎🅿︎🅰︎ 🅺︎🅰︎🆂︎🅸︎ 🅱︎🅸︎🅽︎🆃︎🅰︎🅽︎🅶︎ 🅽︎🆈︎🅴︎🆃︎
  ```
