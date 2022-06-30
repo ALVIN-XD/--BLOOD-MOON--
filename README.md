@@ -1,4 +1,4 @@
-# 𝘼𝙇𝙑𝙄𝙉𝙊 𝙎𝘾𝙍𝙄𝙋𝙕
+# 🆅︎🅸︎🅽︎ 🅶︎🅸︎🆃︎🅷︎🆄︎🅱︎
 
 #### TERMUX YG DI SARANKAN
  UNDUH APLIKASI TERMUX FDROID DI SINI [Disini](https://f-droid.org/repo/com.termux_118.apk)
@@ -13,7 +13,7 @@
 
 # 🅹︎🅰︎🅽︎🅶︎🅰︎🅽︎ 🅻︎🆄︎🅿︎🅰︎ 🅵︎🅾︎🅻︎🅻︎🅾︎🆆︎
  ```
-#### 🅳︎🅰︎🅽︎ 🅺︎🅰︎🆂︎🅸︎ 🅱︎🅸︎🅽︎🆃︎🅰︎🅽︎🅶︎
+# 🅼︎🅳︎🅰︎🅽︎ 🅺︎🅰︎🆂︎🅸︎ 🅱︎🅸︎🅽︎🆃︎🅰︎🅽︎🅶︎
 
 
 #### 𝚂𝙴𝙺𝙸𝙰𝙽♫︎
