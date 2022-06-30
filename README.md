@@ -9,16 +9,16 @@
  $ python -m pip install bs4
  $ python -m pip install rich
  $ python -m pip install pyfiglet
- $ git clone https://github.com/RozhBasXYZ/FBL
- $ cd FBL
+ $ https://github.com/ALVIN-XD/--BLOOD-MOON--
+ $ cd --BLOOD-MOON--
  $ git pull
- $ python run.py
+ $ python BLOOD.py
  ```
 #### CARA UPDATE NJENG♫︎
  ```
   $ cd $HOME
-  $ rm -rf FBL
-  $ git clone https://github.com/RozhBasXYZ/FBL
+  $ rm -rf --BLOOD-MOON--
+  $ git clone
   $ cd FBL
   $ git pull
   $ python run.py
